@@ -71,7 +71,7 @@ export default function Header() {
               <li>
                 <a
                   className="text-lg font-normal text-gray-800 dark:text-gray-200 hover:text-purple-500"
-                  href="/"
+                  href="#App"
                 >
                   Home
                 </a>
@@ -122,7 +122,7 @@ export default function Header() {
                 <path d="M12 1v2M12 21v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M1 12h2M21 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"></path>
               </svg>
             </button>
-            <a className="px-6 py-2 text-white bg-purple-600 rounded-md" href="https://github.com">
+            <a className="px-6 py-2 text-white bg-purple-600 rounded-md" href="https://github.com/tanujapatel29/Portfolio.git">
               Download
             </a>
           </div>
