@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div> 
             <a className="flex items-center space-x-2 text-2xl font-medium text-purple-500 dark:text-gray-100" href="/">
-            <img alt="N" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" className="w-20" src="/img/logo.jpg" 
+            <img alt="N" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" className="w-20" src="./img/logo.jpg" 
             style={{color: 'transparent'}}>
             </img>
           <span>Tanuja Patel</span>

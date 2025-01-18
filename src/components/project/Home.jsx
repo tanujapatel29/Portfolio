@@ -15,7 +15,7 @@ export default function Home() {
           {/* Desktop Screen on Left */}
           <div className="w-full lg:w-1/2 relative">
             <img
-              src="/img/desktop.png"  // Replace with your desktop mockup image
+              src="./img/desktop.png"  // Replace with your desktop mockup image
               alt="Desktop Mockup"
               className="w-full shadow-2xl rounded-lg"
             />

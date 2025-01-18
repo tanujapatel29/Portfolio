@@ -35,8 +35,10 @@ export default function Header() {
                     width="32"
                     height="32"
                     className="w-16"
-                    src="/img/logo.jpg"
-                  />
+                    
+                    src="./img/logo.jpg" />
+
+                  
                 </span>
                 <span>Tanuja Patel</span>
               </span>
