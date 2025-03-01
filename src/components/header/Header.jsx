@@ -133,7 +133,7 @@ export default function Header() {
               <li>
                 <a
                   className="text-lg font-normal text-gray-800 dark:text-gray-200 hover:text-purple-500"
-                  href="/"
+                  href="#"
                 >
                   Home
                 </a>
