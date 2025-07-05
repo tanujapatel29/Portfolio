@@ -25,8 +25,10 @@ export default function Home() {
           <div className="w-full lg:w-1/2 text-left mt-8 lg:mt-0">
             <h3 className="text-2xl font-bold text-white">Responsive Design</h3>
             <p className="text-white mt-4">
-              This portfolio is designed to be fully responsive, adapting to different screen sizes such as desktop, tablet, and mobile devices. Check out the interactive projects displayed on the screen.</p>
-            <button className="mt-6 px-6 py-3 bg-white text-purple-500 rounded-lg shadow-lg hover:bg-gray-200">
+            I design and build responsive websites using React, Tailwind, and modern web technologies.
+I’m passionate about creating clean UIs and learning something new with every project.
+
+ Open to junior dev roles and collaborations <button className="mt-6 px-6 py-3 bg-white text-purple-500 rounded-lg shadow-lg hover:bg-gray-200">
               View Projects
             </button>
           </div>
