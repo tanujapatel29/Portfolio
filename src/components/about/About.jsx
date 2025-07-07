@@ -111,6 +111,7 @@ export default function About() {
                 </div>
                 <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6">
                     <div class="p-4  transition duration-200 hover:grayscale">
+<<<<<<< HEAD
                         <img src="./img/html.png" className=" w-20 mx-auto" loading="lazy" alt="Html" data-nimg="1" width="36" height="36">
                         </img>
                     </div>
@@ -132,6 +133,29 @@ export default function About() {
                     </div>
                     <div class="p-4  transition duration-200 hover:grayscale">
                         <img src="./img/java.png" class="h-12 w-auto mx-auto" loading="lazy" data-nimg="1" alt="java" width="36" height="36">
+=======
+                        <img src="/img/html.png" className=" w-20 mx-auto" loading="lazy" alt="Html" data-nimg="1" width="36" height="36">
+                        </img>
+                    </div>
+                    <div class="p-4  transition duration-200 hover:grayscale">
+                        <img src="/img/react.png" class=" w-20 mx-auto" loading="lazy" alt="React" data-nimg="1" width="36" height="36">
+                        </img>
+                    </div>
+                    <div class="p-4  transition duration-200 hover:grayscale">
+                        <img src="/img/css.png" class=" w-20 mx-auto" loading="lazy" data-nimg="1"alt="css" width="36" height="36">
+                        </img>
+                    </div>
+                    <div class="p-4  transition duration-200 hover:grayscale">
+                        <img src="/img/javascript.png" class=" w-20 mx-auto" loading="lazy" data-nimg="1" alt="Javascript" width="36" height="36">
+                        </img>
+                    </div>
+                    <div class="p-4  transition duration-200 hover:grayscale">
+                        <img src="/img/php.png" class=" w-20 mx-auto" loading="lazy" data-nimg="1" alt="php" width="36" height="36">
+                        </img>
+                    </div>
+                    <div class="p-4  transition duration-200 hover:grayscale">
+                        <img src="/img/java.png" class="h-12 w-auto mx-auto" loading="lazy" data-nimg="1" alt="java" width="36" height="36">
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
                         </img>
                     </div>
                 </div>

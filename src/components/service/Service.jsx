@@ -37,19 +37,32 @@ export default function Service() {
     ];
 
     return (
+<<<<<<< HEAD
         <div className="container mx-auto px-4">
+=======
+        <div className="container mx-auto">
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
             <div className="text-center p-8">
                 <h2 className="text-3xl font-bold">Here is What I Can Offer</h2>
                 <p className="text-gray-500 mt-2">
                     These are the Quality services that I offer.
                 </p>
             </div>
+<<<<<<< HEAD
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {services.map((service) => (
                     <div key={service.id} className="p-4">
                         <div className="border border-gray-200 dark:border-gray-600 p-6 rounded-lg">
                             <h3 className="text-lg font-medium mb-2">{service.title}</h3>
                             {/* <p className="text-gray-500">{service.description}</p>*/} 
+=======
+            <div className="flex flex-wrap -m-4">
+                {services.map((service) => (
+                    <div key={service.id} className="xl:w-1/3 md:w-1/2 p-4">
+                        <div className="border border-gray-200 dark:border-gray-600 p-6 rounded-lg">
+                            <h3 className="text-lg font-medium mb-2">{service.title}</h3>
+                           {/* <p className="text-gray-500">{service.description}</p>*/} 
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
                             <button
                                 className="mt-4 px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700"
                                 onClick={() => setActiveService(service.id)}
@@ -64,7 +77,11 @@ export default function Service() {
             {/* Modal */}
             {activeService && (
                 <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+<<<<<<< HEAD
                     <div className="bg-white rounded-lg p-6 w-11/12 sm:w-1/2 md:w-1/3">
+=======
+                    <div className="bg-white rounded-lg p-6 w-1/3">
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
                         <h3 className="text-xl font-bold mb-4">
                             {services.find((s) => s.id === activeService).title}
                         </h3>

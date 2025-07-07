@@ -35,10 +35,15 @@ export default function Header() {
                     width="32"
                     height="32"
                     className="w-16"
+<<<<<<< HEAD
                     
                     src="./img/logo.jpg" />
 
                   
+=======
+                    src="/img/logo.jpg"
+                  />
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
                 </span>
                 <span>Tanuja Patel</span>
               </span>
@@ -71,7 +76,11 @@ export default function Header() {
               <li>
                 <a
                   className="text-lg font-normal text-gray-800 dark:text-gray-200 hover:text-purple-500"
+<<<<<<< HEAD
                   href="#App"
+=======
+                  href="/"
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
                 >
                   Home
                 </a>
@@ -122,7 +131,11 @@ export default function Header() {
                 <path d="M12 1v2M12 21v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M1 12h2M21 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"></path>
               </svg>
             </button>
+<<<<<<< HEAD
             <a className="px-6 py-2 text-white bg-purple-600 rounded-md" href="https://github.com/tanujapatel29/Portfolio.git">
+=======
+            <a className="px-6 py-2 text-white bg-purple-600 rounded-md" href="https://github.com">
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
               Download
             </a>
           </div>
@@ -135,7 +148,11 @@ export default function Header() {
               <li>
                 <a
                   className="text-lg font-normal text-gray-800 dark:text-gray-200 hover:text-purple-500"
+<<<<<<< HEAD
                   href="/"
+=======
+                  href="#"
+>>>>>>> 2793386f5cf75d181e7d87553baa98e1722905ca
                 >
                   Home
                 </a>
