@@ -23,7 +23,7 @@ export default function Home() {
 
           {/* Text Section on Right */}
           <div className="w-full lg:w-1/2 text-left mt-8 lg:mt-0">
-            <h3 className="text-2xl font-bold text-white">Hi, I’m Tanuja — Front-End Developer.</h3>
+            <h3 className="text-2xl font-bold text-white">Hi, I am Tanuja Patel — Front-End Developer.</h3>
             <p className="text-white mt-4">
             I design and build responsive websites using React, Tailwind, and modern web technologies.
 I’m passionate about creating clean UIs and learning something new with every project.
